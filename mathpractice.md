@@ -78,3 +78,25 @@ x^2 & \text{if } x \geq 0 \\
 -x^2 & \text{if } x > 0 
 \end{cases}
 $$
+
+#Making mathematical cover page
+
+# The Euler Identity
+
+$$e^{i\pi} + 1 = 0$$
+
+This elegant equation, known as Euler's Identity, connects five fundamental mathematical constants:
+- $e$ (Euler's number)
+- $i$ (the imaginary unit)
+- $\pi$ (pi)
+- 1 (the multiplicative identity)
+- 0 (the additive identity)
+
+# The Pythagorean Theorem 
+
+$$a^2+b^2 = c^2$$
+
+where:
+- $a$ (small side of the triangle)
+- $b$ (the right angle side of the triangle)
+- $c$ (the longest side of the triangle)
