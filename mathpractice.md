@@ -58,3 +58,23 @@ p_2 \\
 p_3
 \end{pmatrix}
 $$
+
+
+#System of Equations and Cases
+
+$$
+\begin{align}
+2x + 3y &= 5 \\
+x - y &= 1
+\end{align}
+$$
+
+
+#piecewise Function:
+
+$$
+f(x) = \begin{cases}
+x^2 & \text{if } x \geq 0 \\
+-x^2 & \text{if } x > 0 
+\end{cases}
+$$
